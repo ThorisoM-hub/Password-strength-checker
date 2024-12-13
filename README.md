@@ -3,9 +3,7 @@
 <h2>Description</h2>
 In this project, I created a password strenth checker, which is a tool designed to assess the strenth of a password based on several criteria. By checking length and ensuring the password contains a single number, special character, uppercase, and lowercase letters, the program provides suggestions to help users create stronger passwords, and it also ensures that a password contains at least 12 characters. 
 
-
-
-<h1> Guidelines for creating secure passwords according to NIST<h1>
+<h1>Guidelines for creating secure passwords according to NIST<h1>
 
      •Use passwords that are 8 to 15 characters long.
      •Use password managers
@@ -15,7 +13,7 @@ In this project, I created a password strenth checker, which is a tool designed 
      •Avoid commonly used passwords.
 
 
-<h1>Why is password security important?<h1></h1>
+<h2>Why is password security important?<h1></h2>
 •
 Protection against cyber threats:strong passwords help to protect personal(PII) and sensitive information from unauthorized access.
   
