@@ -1,7 +1,7 @@
 <h1>Password strength checker</h1>
 
 <h2>Description</h2>
-In this project, I created a password strenth checker, which is a tool designed to assess the strenth of a password based on several criteria. By checking length and ensuring the password contains a single number, special character, uppercase, and lowercase letters, the program provides suggestions to help users create stronger passwords, and it also ensures that a password contains at least 12 characters. 
+In this project, I created a password strength checker, which is a tool designed to assess the strenth of a password based on several criteria. By checking length and ensuring the password contains a single number, special character, uppercase, and lowercase letters, the program provides suggestions to help users create stronger passwords, and it also ensures that a password contains at least 12 characters. 
 
 <h2>Why is password security important?<h1></h2>
 •
