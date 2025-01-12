@@ -40,16 +40,16 @@ Prevention of data breaches: passwords are first line of defense against cybercr
 
 <p align="center">
 Launch the program: <br/>
-<img src="https://i.imgur.com/DPD7pwK.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/DPD7pwK.png" height="100%" width="100%" alt=""/>
 <br />
    <br/>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="" height="100%" width="100%" alt=""/>
   <br />
 Enter Password output:  <br/>
-<img src="https://i.imgur.com/f8dLygR.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/f8dLygR.png" height="100%" width="100%" alt=""/>
 <br />
  Final output: <br/>
-<img src="https://i.imgur.com/FbhNBB6.png" height="80%" width="80%" alt="s"/>
+<img src="https://i.imgur.com/FbhNBB6.png" height="100%" width="100%" alt="s"/>
 <br />
 <br />
 
